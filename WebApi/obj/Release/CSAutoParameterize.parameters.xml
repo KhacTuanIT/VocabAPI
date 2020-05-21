@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="VocabAPI-Web.config Connection String" description="VocabAPI Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:bankservice.database.windows.net,1433;Initial Catalog=englishvocab;Persist Security Info=False;User ID=tuantk;Password=tuan1506@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Softech\\VocabApi\\VocabWebApi\\WebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='VocabAPI']/@connectionString" />
+  </parameter>
+</parameters>

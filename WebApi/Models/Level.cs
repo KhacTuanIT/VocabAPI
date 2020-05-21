@@ -7,5 +7,8 @@ namespace WebApi.Models
 {
     public class Level
     {
+        public string Id { get; set; }
+        public string NameLevel { get; set; }
+        public string NumberWord { get; set; }
     }
 }
