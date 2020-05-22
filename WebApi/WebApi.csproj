@@ -176,6 +176,10 @@
     <Compile Include="Migrations\202005211148597_Vocab_v1.Designer.cs">
       <DependentUpon>202005211148597_Vocab_v1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005220141471_Vocab_v1.1.cs" />
+    <Compile Include="Migrations\202005220141471_Vocab_v1.1.Designer.cs">
+      <DependentUpon>202005220141471_Vocab_v1.1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Level.cs" />
     <Compile Include="Models\MyPackage.cs" />
@@ -276,6 +280,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202005211148597_Vocab_v1.resx">
       <DependentUpon>202005211148597_Vocab_v1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005220141471_Vocab_v1.1.resx">
+      <DependentUpon>202005220141471_Vocab_v1.1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

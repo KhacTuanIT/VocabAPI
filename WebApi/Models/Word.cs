@@ -14,6 +14,8 @@ namespace WebApi.Models
         public string Example { get; set; }
         public string Synomymous { get; set; }
         public string Image { get; set; }
+        public string Audio { get; set; }
+        public string ExampleAudio { get; set; }
 
         public virtual WordGroup WordGroup { get; set; }
     }

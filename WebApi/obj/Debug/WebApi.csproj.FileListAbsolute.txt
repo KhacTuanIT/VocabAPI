@@ -66,3 +66,4 @@ E:\Softech\VocabApi\VocabWebApi\WebApi\obj\Debug\WebApi.dll
 E:\Softech\VocabApi\VocabWebApi\WebApi\obj\Debug\WebApi.pdb
 E:\Softech\VocabApi\VocabWebApi\WebApi\obj\Debug\WebApi.Migrations.Vocab_v1.resources
 E:\Softech\VocabApi\VocabWebApi\WebApi\obj\Debug\WebApi.csproj.GenerateResource.cache
+E:\Softech\VocabApi\VocabWebApi\WebApi\obj\Debug\WebApi.Migrations.Vocab_v11.resources
